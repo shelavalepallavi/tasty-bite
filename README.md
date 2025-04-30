@@ -6,7 +6,7 @@
 
 ## 📸 Screenshot
 
-![TastyBite Dashboard](screenshots/dashboard.png)
+![TastyBite Dashboard](resources/img/dashboard.png)
 
 > _Replace this placeholder image with an actual screenshot of your project UI._
 
@@ -23,3 +23,21 @@
 ---
 
 ## 📁 File Structure
+```
+tastybite/
+├── index.html               # Main HTML file
+├── /vendors                  
+│   ├── css
+│   ├── fonts
+│   ├── fjs
+│   
+├── /resources                   
+│   ├── css
+│   ├── img
+│   └── data
+│   └── js
+├── /screenshots             # Screenshots of UI for README
+│   └── dashboard.png
+├── README.md                # Project documentation
+
+```
