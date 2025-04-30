@@ -33,11 +33,10 @@ tastybite/
 │   
 ├── /resources                   
 │   ├── css
-│   ├── img
+│       └── stlyle.css
+│   ├── img/
 │   └── data
 │   └── js
-├── /screenshots             # Screenshots of UI for README
-│   └── dashboard.png
 ├── README.md                # Project documentation
 
 ```
