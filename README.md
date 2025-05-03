@@ -14,11 +14,11 @@
 
 ## ✨ Features
 
-- 🍽️ Home page with food hero banner
-- 📋 Menu section with food items
-- 💬 Contact form (static layout)
-- 🔗 Interactive social media icons (hover effects)
-- 📱 Responsive layout for mobile & desktop
+- 🍽️ Home page with food hero banner.
+- 📋 Menu section with food items.
+- 💬 Contact form (static layout).
+- 🔗 Interactive social media icons (hover effects).
+- 📱 Responsive layout for mobile & desktop.
 
 ---
 
